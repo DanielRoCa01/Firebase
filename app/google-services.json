@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "71613354500",
+    "project_id": "fir-4e423",
+    "storage_bucket": "fir-4e423.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71613354500:android:c59a1d30bef7712e04db51",
+        "android_client_info": {
+          "package_name": "com.danielrodriguez.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEks-3IkYLJjP6fN5MrhZ76xUb1cT4m0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
